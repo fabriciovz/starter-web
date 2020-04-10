@@ -1,1 +1,4 @@
 filetoignore.txt
+*.log
+log/
+
