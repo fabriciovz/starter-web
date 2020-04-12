@@ -15,3 +15,7 @@ Deployment content
 ## How to contribute
 
 How to contribute..
+
+### Copyright
+
+KarenaSoft
