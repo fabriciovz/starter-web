@@ -18,4 +18,4 @@ Please fork this repository and then issue Pull Requests for review
 
 ### Copyright
 
-KarenaSoft
+KarenaSoft. All rights reserved
