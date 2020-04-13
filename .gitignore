@@ -1,4 +1,5 @@
 filetoignore.txt
 *.log
 log/
+*..orig
 
